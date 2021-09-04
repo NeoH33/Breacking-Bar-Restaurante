@@ -1,0 +1,66 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+/* body {
+	background: url(../../img/fondo-administrador.jpg);
+    background-size: 100%;
+} */
+
+.dimension{
+    width: 500px;
+    height: 300px;
+}
+.nav-pills .nav-link.active {
+    background-color: #20DFB3;
+    border-top: 4px solid #20DFB3;
+}
+.nav-tabs .nav-link{
+    padding: 1rem 1.2rem;
+	font-size: 1.4rem;
+	position: relative;
+}
+.nav-tabs .nav-link:hover {
+    border: 3px solid #20DFB3;
+}
+.tab-content{
+    padding: 20px;
+}
+
+html, body {
+	font-family: 'Comic Sans';
+	font-size: 15px;
+	line-height: 1.5;
+	box-sizing: border-box;
+	margin: 0;
+	top: 0;
+	left: 0;
+}
+
+#letras {
+	text-decoration: none;
+    color: white;
+	font-weight: 300;
+}
+
+.nav {
+    background: white;
+    padding: 0.5rem 1rem;
+    height: 0rem;
+    min-height: 12vh;
+}
+
+
+.navbar-brand {
+    font-family: 'Pacifico', cursive;
+    font-size: 2rem;
+    color: #20DFB3;
+}
+
+.nav-pills {
+    background-color: black;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+	padding: 2rem 1.2rem;
+	font-size: 1.4rem;
+	position: relative;
+}

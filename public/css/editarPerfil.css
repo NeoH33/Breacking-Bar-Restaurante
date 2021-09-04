@@ -1,0 +1,59 @@
+/* .contPrincipal{
+    margin: 100px; 
+    /* dejar un pequeño margen al inicio */
+    /* justify-content:center; */
+      /* Centrar con flexBox */
+    /* text-align: center; */
+  
+/*} */
+.MenuNav{
+
+  background-color: #334443;
+  position: fixed;
+  height: 100%;
+  width: 22%;
+}
+.fotoPerfil{
+  position: relative;
+  top: 60px;
+  border-radius: 100%;
+  width: 50%;
+}
+.perfil{
+  position: relative;
+  top: 40px;
+  justify-content: center;
+  text-align: center;
+}
+.contNomb{
+  position: relative;
+  justify-content:center;
+  text-align: center;
+  top: 20%;
+
+}
+.nombre{
+  color: white;
+}
+span{
+  color: white;
+}
+.Editar1{
+  background-color: #f55c47;
+  position: relative;
+  justify-content: center;
+  text-align: center;
+  top: 15%;
+  cursor:pointer;
+}
+.Editar{
+ background-color: hsl(180, 52%, 36%);
+  position: relative;
+  justify-content: center;
+  text-align: center;
+  top: 15%;
+  cursor:pointer;
+}
+.Editar:hover{
+  background-color: #f55c47;
+}

@@ -1,0 +1,38 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.MenuCuenta{
+  background:#2E4053; /*#1a2537;*/
+  width: 80%;
+  margin-left: 20%;
+
+}
+.MenuCuenta ul{
+  list-style: none;
+  margin: 0;/*ampliar hacia abajo el cajon*/
+  padding: 0;  
+  margin-left: 7%;
+}
+
+.MenuCuenta ul li{
+  display: inline-block;
+}
+
+.MenuCuenta ul li a{
+  display: block;
+  padding: 12px 30px;
+  text-decoration: none;
+  font-size: 18px;
+  color: white;
+
+}
+
+.MenuCuenta ul li a:hover{
+  background: #379BC0;
+
+}
+.hov{
+  background: #379BC0;
+}
